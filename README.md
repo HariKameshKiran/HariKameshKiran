@@ -25,8 +25,6 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" height="40" alt="R Language  logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" height="40" alt="R Language  logo"  />
-  <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEfXHLIJLACY1DI30rAzDlbekLkgFXYm1DA&s" height="40" alt="Numpy Language  logo"  />
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s" height="40" alt="Pandas Language  logo"  />
@@ -62,6 +60,8 @@
   <img src="https://cdn.worldvectorlogo.com/logos/logo-android.svg" height="40" alt="Android logo"  />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40" alt="Flutter logo"  />
+  <img width="12" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" height="40" alt="Dart Language  logo"  />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase logo"  />
   <img width="12" />
