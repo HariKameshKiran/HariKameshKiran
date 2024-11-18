@@ -1,22 +1,9 @@
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🛢️ Data Wrangling...<br>📚 W<br>📊 Statistical Analysis and Dashboarding ...<br>💰 Financial data and preclinical data.</p>
-
-###
-
-
-
-
-###
-
 <h1 align="center">Hi 👋, I'm Hari Kamesh Kiran K</h1>
 <h3 align="center">A passionate Data Analyst from Bangalore, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harikameshkiran&label=Profile%20views&color=0e75b6&style=flat" alt="harikameshkiran" /> </p>
 
-- 🔭 I’m currently working on **Data wrangling, Data Analysis, visualization**
+- 🔭 I’m currently working on **Data wrangling, Data Analysis, Statistical Analysis, Data Visualization of Financial and Healthcare data**
 
 - 👯 I’m looking to collaborate on **Cloud technologies**
 
@@ -38,7 +25,7 @@
   <img width="12" />
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="40" alt="Mysql logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="SQL Server logo"  />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/microsoft-sql-server-logo-png-transparent.png" height="40" alt="SQL Server logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo"  />
   <img width="12" />
