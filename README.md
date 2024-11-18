@@ -34,6 +34,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="40" alt="Mysql logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="SQL Server logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo"  />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="40" alt="Python logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" height="40" alt="R Language  logo"  />
@@ -48,6 +54,14 @@
 
 <h3 align="left">App development</h3>
 <div align="left">
+  <img src="https://sketchware.pro/img/logo.webp" height="40" alt="Sketchware logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-android.svg" height="40" alt="Android logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40" alt="Flutter logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase logo"  />
+  <img width="12" />
 </div> 
 
 
@@ -57,24 +71,11 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" height="40" alt="Power Point logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo"  />
-  <img width="12" />
-  
-  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="40" alt="Mysql logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="SQL Server logo"  />
-  <img width="12" />
-  
-  <img src="https://sketchware.pro/img/logo.webp" height="40" alt="Sketchware logo"  />
-  <img width="12" />
   <img src="https://pngimg.com/uploads/photoshop/small/photoshop_PNG21.png" height="40" alt="Photoshop logo"  />
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-android.svg" height="40" alt="Android logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40" alt="Flutter logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase logo"  />
-  <img width="12" />
+  
+  
+  
 </div> 
 
 
