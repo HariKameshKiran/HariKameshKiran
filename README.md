@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Hari Kamesh Kiran and I'm a Data Analyst, from Bangalore</p>
+<p align="left">My name is Hari Kamesh Kiran and I'm an enthusiastic Data Analyst, from Bangalore. My Hobbies are App development #Sketchware</p>
 
 ###
 
@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://www.php.net/images/logos/new-php-logo.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
