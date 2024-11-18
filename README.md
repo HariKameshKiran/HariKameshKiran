@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://sketchware.pro/img/logo.webp" height="40" alt="Sketchware logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrIsiTl916fgnxTVNQaIiFBNVPn5Er55m2wA&s" height="40" alt="Photoshop logo"  />
+  <img src="https://www.svgrepo.com/show/142847/adobe-photoshop.svg" height="40" alt="Photoshop logo"  />
   <img width="12" />
   
 </div>
