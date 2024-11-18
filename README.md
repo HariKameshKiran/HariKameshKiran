@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">🛢️ Data Wrangling...<br>📚 W<br>📊 Statistical Analysis and Dashboarding ...<br>💰 Financial data and preclinical data.</p>
 
 ###
 
