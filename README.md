@@ -18,11 +18,11 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari-kamesh-kiran-a6790620/" height="30" width="30" />
   </a>
   <img width="12" />
-  <a href="#" target="blank">
+  <a href="https://www.youtube.com/@rudraseducab" target="blank">
     <img align="center" src="https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-1200-80.jpg" alt="Rudras Educab Youtube" height="30" width="55" />
   </a>
   <img width="12" />
-  <a href="#" target="blank">
+  <a href="https://www.instagram.com/harikameshkiran?igsh=MTljZWQ1M2YwZnhteg==" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="Instagram" height="30" width="30" />
   </a>
 </p>
