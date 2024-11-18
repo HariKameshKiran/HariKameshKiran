@@ -15,13 +15,9 @@
 <a href="https://linkedin.com/in/hari-kamesh-kiran-a6790620/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari-kamesh-kiran-a6790620/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Data Analysis Tools:</h3>
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="40" alt="Excel logo"  />
-  <img width="12" />
-  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="40" alt="Mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/microsoft-sql-server-logo-png-transparent.png" height="40" alt="SQL Server logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo"  />
   <img width="12" />
@@ -29,7 +25,21 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" height="40" alt="R Language  logo"  />
   <img width="12" />
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" height="40" alt="R Language  logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEfXHLIJLACY1DI30rAzDlbekLkgFXYm1DA&s" height="40" alt="Numpy Language  logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s" height="40" alt="Pandas Language  logo"  />
+  <img width="12" />
+</div> 
+
+
+<h3 align="left">Database</h3>
+<div align="left">
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="40" alt="Mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/microsoft-sql-server-logo-png-transparent.png" height="40" alt="SQL Server logo"  />
+  <img width="12" />
 </div> 
 
 
