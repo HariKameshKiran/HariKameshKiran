@@ -21,7 +21,7 @@
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="40" alt="Excel logo"  />
   <img width="12" />
-  <img src="https://static.vecteezy.com/system/resources/previews/017/396/812/non_2x/microsoft-power-point-mobile-apps-logo-free-png.png" height="40" alt="Power Point logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" height="40" alt="Power Point logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo"  />
   <img width="12" />
