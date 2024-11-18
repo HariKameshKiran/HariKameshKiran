@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" height="40" alt="HTML logo"  />
   <img width="12" />
-  <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" height="40" alt="CSS logo"  />
+  <img src="https://w7.pngwing.com/pngs/493/796/png-transparent-responsive-web-design-cascading-style-sheets-css3-html-css-design-and-build-web-sites-others-blue-angle-text.png" height="40" alt="CSS logo"  />
   <img width="12" />
   <img src="https://sketchware.pro/img/logo.webp" height="40" alt="Sketchware logo"  />
   <img width="12" />
