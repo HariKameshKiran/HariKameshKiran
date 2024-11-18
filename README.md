@@ -46,8 +46,6 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" height="40" alt="R Language  logo"  />
   <img width="12" />
-  <img src="https://www.php.net/images/logos/new-php-logo.svg" height="40" alt="PHP logo"  />
-  <img width="12" />
   
 </div> 
 
@@ -59,6 +57,8 @@
   <img src="https://w7.pngwing.com/pngs/493/796/png-transparent-responsive-web-design-cascading-style-sheets-css3-html-css-design-and-build-web-sites-others-blue-angle-text.png" height="40" alt="CSS logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" height="40" alt="Javascript logo"  />
+  <img width="12" />
+  <img src="https://www.php.net/images/logos/new-php-logo.svg" height="40" alt="PHP logo"  />
   <img width="12" />
 </div> 
 
