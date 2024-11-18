@@ -13,13 +13,13 @@
 <h3 align="left">Social:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/hari-kamesh-kiran-a6790620/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari-kamesh-kiran-a6790620/" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari-kamesh-kiran-a6790620/" height="30" width="30" />
   </a>
   <a href="#" target="blank">
-    <img align="center" src="https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-1200-80.jpg" alt="Rudras Educab Youtube" height="30" width="40" />
+    <img align="center" src="https://thumbs.dreamstime.com/b/youtube-new-155631998.jpg" alt="Rudras Educab Youtube" height="30" width="30" />
   </a>
   <a href="#" target="blank">
-    <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfFhHf0FrLUXX85iBaMr9cl_IPdNfeHtY3lQ&s" alt="Instagram" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="Instagram" height="30" width="30" />
   </a>
 </p>
 
