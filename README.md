@@ -91,8 +91,11 @@
   <img width="12" />
   <img src="https://pngimg.com/uploads/photoshop/small/photoshop_PNG21.png" height="40" alt="Photoshop logo"  />
   <img width="12" />
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Android_logo_2.svg/2048px-Android_logo_2.svg.png" height="40" alt="Android logo"  />
+  <img width="12" />
 </div>
+
+
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
