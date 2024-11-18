@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" height="40" alt="HTML logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD5DMvDiwUQNOzdoO6X7c4WVLrE_ojGJYfST_2SOcJ8OBaNnzd" height="40" alt="CSS logo"  />
+  <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" height="40" alt="CSS logo"  />
   <img width="12" />
   <img src="https://sketchware.pro/img/logo.webp" height="40" alt="Sketchware logo"  />
   <img width="12" />
