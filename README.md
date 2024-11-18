@@ -21,21 +21,23 @@
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="40" alt="Excel logo"  />
   <img width="12" />
+  <img src="https://static.vecteezy.com/system/resources/previews/017/396/812/non_2x/microsoft-power-point-mobile-apps-logo-free-png.png" height="40" alt="Power Point logo"  />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo"  />
   <img width="12" />
   <img src="https://www.php.net/images/logos/new-php-logo.svg" height="40" alt="PHP logo"  />
   <img width="12" />
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="40" alt="Mysql logo"  />
   <img width="12" />
-  <img src="https://static.vecteezy.com/system/resources/previews/017/396/812/non_2x/microsoft-power-point-mobile-apps-logo-free-png.png" height="40" alt="Power Point logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" height="40" alt="HTML logo"  />
   <img width="12" />
-  
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD5DMvDiwUQNOzdoO6X7c4WVLrE_ojGJYfST_2SOcJ8OBaNnzd" height="40" alt="CSS logo"  />
+  <img width="12" />
   <img src="https://sketchware.pro/img/logo.webp" height="40" alt="Sketchware logo"  />
   <img width="12" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD5DMvDiwUQNOzdoO6X7c4WVLrE_ojGJYfST_2SOcJ8OBaNnzd" height="40" alt="CSS logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
 ###
