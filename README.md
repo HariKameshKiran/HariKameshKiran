@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on **Data wrangling, Data Analysis, Statistical Analysis, Data Visualization of Financial and Health care data**
 
-- 👯 I’m looking to collaborate on **Cloud technologies**
+- 💼 I’m looking for a **job in MNC**
+
+- 📚 Learning **GCP**
 
 - 📫 How to reach me **kamesh.hari@gmail.com**
 
