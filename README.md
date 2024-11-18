@@ -34,6 +34,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="40" alt="Excel logo"  />
+  <img width="12" />
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="40" alt="Mysql logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="SQL Server logo"  />
@@ -67,15 +69,10 @@
 
 <h3 align="left">Tools & Softwares</h3>
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="40" alt="Excel logo"  />
-  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" height="40" alt="Power Point logo"  />
   <img width="12" />
   <img src="https://pngimg.com/uploads/photoshop/small/photoshop_PNG21.png" height="40" alt="Photoshop logo"  />
   <img width="12" />
-  
-  
-  
 </div> 
 
 
