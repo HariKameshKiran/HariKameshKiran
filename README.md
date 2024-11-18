@@ -19,15 +19,16 @@
 ###
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="react logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="40" alt="Excel logo"  />
   <img width="12" />
-  <img src="https://www.php.net/images/logos/new-php-logo.svg" height="40" alt="javascript logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo"  />
   <img width="12" />
-  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="40" alt="typescript logo"  />
+  <img src="https://www.php.net/images/logos/new-php-logo.svg" height="40" alt="PHP logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="40" alt="Mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  
+  <img src="https://sketchware.pro/img/logo.webp" height="40" alt="Sketchware logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
