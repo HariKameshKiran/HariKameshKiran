@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harikameshkiran&label=Profile%20views&color=0e75b6&style=flat" alt="harikameshkiran" /> </p>
 
-- 🔭 I’m currently working on **Data wrangling, Data Analysis, Statistical Analysis, Data Visualization of Financial and Healthcare data**
+- 🔭 I’m currently working on **Data wrangling, Data Analysis, Statistical Analysis, Data Visualization of Financial and Health care data**
 
 - 👯 I’m looking to collaborate on **Cloud technologies**
-
-- 👨‍💻 All of my projects are available at [#](#)
-
-- 📝 I regularly write articles on [#](#)
 
 - 📫 How to reach me **kamesh.hari@gmail.com**
 
