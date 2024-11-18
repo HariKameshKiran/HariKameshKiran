@@ -51,13 +51,6 @@
   
 </div> 
 
-<h3 align="left">Other Tools & Softwares</h3>
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" height="40" alt="Power Point logo"  />
-  <img width="12" />
-  <img src="https://pngimg.com/uploads/photoshop/small/photoshop_PNG21.png" height="40" alt="Photoshop logo"  />
-  <img width="12" />
-</div> 
 
 <h3 align="left">Web development</h3>
 <div align="left">
@@ -78,6 +71,16 @@
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40" alt="Flutter logo"  />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase logo"  />
+  <img width="12" />
+</div> 
+
+<h3 align="left">Other Tools & Softwares</h3>
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" height="40" alt="Power Point logo"  />
+  <img width="12" />
+  <img src="https://i.pinimg.com/736x/46/aa/96/46aa967637e21e2a7f7bbef5196a663c.jpg" height="40" alt="MS Word logo"  />
+  <img width="12" />
+  <img src="https://pngimg.com/uploads/photoshop/small/photoshop_PNG21.png" height="40" alt="Photoshop logo"  />
   <img width="12" />
 </div> 
 
