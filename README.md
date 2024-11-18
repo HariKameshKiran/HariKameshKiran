@@ -48,13 +48,28 @@
   <img width="12" />
   <img src="https://www.php.net/images/logos/new-php-logo.svg" height="40" alt="PHP logo"  />
   <img width="12" />
+  
+</div> 
+
+<h3 align="left">Other Tools & Softwares</h3>
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" height="40" alt="Power Point logo"  />
+  <img width="12" />
+  <img src="https://pngimg.com/uploads/photoshop/small/photoshop_PNG21.png" height="40" alt="Photoshop logo"  />
+  <img width="12" />
+</div> 
+
+<h3 align="left">Web development</h3>
+<div align="left">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" height="40" alt="HTML logo"  />
   <img width="12" />
   <img src="https://w7.pngwing.com/pngs/493/796/png-transparent-responsive-web-design-cascading-style-sheets-css3-html-css-design-and-build-web-sites-others-blue-angle-text.png" height="40" alt="CSS logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" height="40" alt="Javascript logo"  />
+  <img width="12" />
 </div> 
 
-<h3 align="left">App development</h3>
+<h3 align="left">Mobile App development</h3>
 <div align="left">
   <img src="https://sketchware.pro/img/logo.webp" height="40" alt="Sketchware logo"  />
   <img width="12" />
@@ -65,15 +80,5 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase logo"  />
   <img width="12" />
 </div> 
-
-
-<h3 align="left">Tools & Softwares</h3>
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" height="40" alt="Power Point logo"  />
-  <img width="12" />
-  <img src="https://pngimg.com/uploads/photoshop/small/photoshop_PNG21.png" height="40" alt="Photoshop logo"  />
-  <img width="12" />
-</div> 
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harikameshkiran&show_icons=true&locale=en&layout=compact" alt="harikameshkiran" /></p>
