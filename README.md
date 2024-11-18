@@ -39,6 +39,10 @@
   <img width="12" />
   <img src="https://sketchware.pro/img/logo.webp" height="40" alt="Sketchware logo"  />
   <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40" alt="Flutter logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase logo"  />
+  <img width="12" />
   <img src="https://pngimg.com/uploads/photoshop/small/photoshop_PNG21.png" height="40" alt="Photoshop logo"  />
   <img width="12" />
   
@@ -92,6 +96,10 @@
   <img src="https://pngimg.com/uploads/photoshop/small/photoshop_PNG21.png" height="40" alt="Photoshop logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Android_logo_2.svg/2048px-Android_logo_2.svg.png" height="40" alt="Android logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40" alt="Flutter logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase logo"  />
   <img width="12" />
 </div>
 
