@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hari Kamesh Kiran K</h1>
-<h3 align="center">A passionate Data Analyst from Bangalore, India.</h3>
+<h3 align="center">A passionate Data Analyst with 5 years of experience in data analysis (Total Exp 11+ years) from Bangalore, India.</h3>
 
 # 📊GitHub Stats :
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harikameshkiran&label=Profile%20views&color=0e75b6&style=flat" alt="harikameshkiran" /> </p>
