@@ -218,7 +218,10 @@ Built reporting and data-processing tools designed to reduce manual effort and s
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=harikameshkiran&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub Stats"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikameshkiran&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikameshkiran&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most Used GitHub Languages"/>
+</div>
+
 
 </div>
 
