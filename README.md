@@ -1,168 +1,237 @@
-# Hi 👋, I'm Hari Kamesh Kiran
+<!-- PROFILE HEADER -->
 
-### Data Analyst | Healthcare Analytics | Python Automation
+<div align="center">
 
-I'm a **Data Analytics and Automation professional** with 13+ years of overall professional experience, combining pharmaceutical domain expertise with data analysis, application development, and workflow automation.
+# 👋 Hi, I'm Hari Kamesh Kiran
 
-I build practical solutions that transform complex datasets into actionable insights, improve data quality, and reduce repetitive manual work.
+### Healthcare Analytics • Data Analytics • Python Automation
 
-## 🔬 Areas of Expertise
+**Turning healthcare data into insights. Turning repetitive processes into automated solutions.**
 
-* 🏥 **Healthcare & Pharmaceutical Analytics:** FDA MAUDE, FAERS, post-market surveillance, medical device and drug safety analysis
-* 📊 **Data Analytics:** Data cleaning, exploratory data analysis (EDA), statistical analysis, trend analysis, and data visualization
-* 🐍 **Python Automation:** Automated reporting, Flask applications, Tkinter tools, and Excel/PowerPoint integration
-* 📈 **Business Intelligence:** Power BI dashboards, KPI monitoring, and performance reporting
-* 🔄 **ETL & Data Quality:** Alteryx workflows, data transformation, validation, deduplication, and standardization
-* 🤖 **Process Improvement:** Reporting automation, workflow optimization, and AI-assisted analytics
+<a href="https://linkedin.com/in/hari-kamesh-kiran-a6790620/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:kamesh.hari@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/harikameshkiran">
+  <img src="https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-## 🛠️ Technical Skills
+![Profile Views](https://komarev.com/ghpvc/?username=harikameshkiran\&style=flat-square\&color=0E9F9A\&label=PROFILE+VIEWS)
 
-### Programming Languages
+</div>
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="48" height="48"/>
-  </a>
-  <a href="https://www.w3.org/standards/webdesign/script" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="48" height="48"/>
-  </a>
-</p>
+---
 
-### Data Analytics & Visualization
+## 🧬 About Me
 
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
-  </a>
-</p>
+I'm a **Data Analytics and Automation professional** with 13+ years of overall professional experience, combining pharmaceutical domain knowledge with programming, statistical analysis, business intelligence, and workflow automation.
 
-### Databases & SQL
+My focus is on building practical tools that improve data quality, simplify reporting, and support evidence-based decision-making in healthcare and pharmaceutical environments.
 
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  </a>
-</p>
+* 🏥 Healthcare, pharmaceutical, and medical device safety analytics
+* 🐍 Python applications and automated reporting workflows
+* 📊 SQL, Power BI, Excel, and statistical analysis
+* 🔄 Alteryx ETL, data cleaning, validation, and standardization
+* 🤖 Process improvement and AI-assisted automation
+* 📈 Translating complex datasets into useful business insights
 
-### Automation & Application Development
+## 💡 What I Work On
 
-<p align="left">
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  </a>
-  <a href="https://www.automateanywhere.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Workflow%20Automation-2563EB?style=for-the-badge&logo=githubactions&logoColor=white" alt="Workflow Automation"/>
-  </a>
-  <a href="https://www.alteryx.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Alteryx-0078C9?style=for-the-badge&logoColor=white" alt="Alteryx"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank">
-    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/power-platform/products/power-automate" target="_blank">
-    <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" alt="Power Automate"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/>
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Web & Mobile Development
+### 🏥 Healthcare Analytics
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48"/>
-  </a>
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="48" height="48"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="48" height="48"/>
-  </a>
-</p>
+* FDA MAUDE adverse event data
+* FAERS drug safety data
+* Post-market surveillance
+* Medical device and drug safety comparisons
+* Trend analysis and signal exploration
 
-## 🚀 Featured Project Areas
+</td>
+<td width="50%" valign="top">
 
-* **Healthcare Safety Analytics:** Analysis of public FDA MAUDE and FAERS data for adverse event reporting trends and safety surveillance.
-* **Automated Safety Comparison Reports:** Python and Flask applications that generate standardized Word and Excel reports from relevant source data.
-* **Quality Control Chart Automation:** Python applications for generating U-charts and P-charts from complaint and sales datasets.
-* **Data Cleaning & ETL Automation:** Alteryx workflows for daily file comparison, duplicate removal, and data standardization.
-* **Business Intelligence Dashboards:** Power BI reports for trend analysis, key performance indicators, and data-driven decision-making.
+### ⚙️ Intelligent Automation
 
-Explore my repositories for practical analytics applications, automation utilities, and data projects. Project descriptions and results should reflect the actual implementation and use of public or synthetic data where appropriate.
+* Python and Flask applications
+* Automated Word and Excel reports
+* PowerPoint chart automation
+* U-chart and P-chart generation
+* ETL and data quality workflows
 
-## 📚 Currently Learning
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-* Google Cloud Platform (GCP)
-* Data science and machine learning
-* AI-assisted analytics and workflow automation
-* Scalable data processing and reporting solutions
+### 📊 Business Intelligence
 
-## 🏆 Awards & Recognition
+* Power BI dashboards
+* SQL-based data validation
+* KPI and performance monitoring
+* Exploratory data analysis
+* Statistical analysis
 
-* **Stellar Synergy Award – Alcon**, received in two quarters during my first year.
+</td>
+<td width="50%" valign="top">
 
-## 🤝 Connect With Me
+### 🔄 Process Optimization
+
+* Duplicate record removal
+* Daily file comparison
+* Reporting standardization
+* Manual effort reduction
+* Reproducible analytical workflows
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technology Stack
+
+### 🐍 Programming & Data Analysis
 
 <p align="left">
-  <a href="https://linkedin.com/in/hari-kamesh-kiran-a6790620/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:kamesh.hari@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.youtube.com/@rudraseducab" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://www.instagram.com/harikameshkiran/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/></a>&nbsp;
+<a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48" alt="R"/></a>&nbsp;
+<a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/></a>&nbsp;
+<a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/></a>
 </p>
 
-## 📊 GitHub Statistics
+### 📊 Business Intelligence & Analytics Tools
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harikameshkiran&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+<p align="left">
+<a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Advanced Excel"/></a>
+<a href="https://www.alteryx.com/"><img src="https://img.shields.io/badge/Alteryx-0078C9?style=for-the-badge&logoColor=white" alt="Alteryx"/></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harikameshkiran&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+### 🗄️ Databases & Querying
+
+<p align="left">
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/></a>&nbsp;
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/></a>&nbsp;
+<a href="https://www.microsoft.com/en-us/sql-server"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikameshkiran&layout=compact&hide_border=true" alt="Top languages"/>
+### ⚙️ Automation & Development
+
+<p align="left">
+<a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></a>
+<a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/></a>
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-automate"><img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" alt="Power Automate"/></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/></a>
+</p>
+
+### 🌐 Web & Mobile Technologies
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS"/></a>&nbsp;
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/></a>&nbsp;
+<a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP"/></a>&nbsp;
+<a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter"/></a>&nbsp;
+<a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase"/></a>
 </p>
 
 ---
 
-💡 **My focus:** Combining pharmaceutical domain knowledge, analytics, and automation to solve real-world healthcare data challenges.
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 Healthcare Safety Analytics
+
+Analyze public adverse event reporting data to explore reporting patterns, manufacturer trends, and potential safety signals.
+
+**Tech:** Python · Pandas · FDA Data · Data Visualization
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Automated Safety Comparison Reports
+
+Python and Flask application concept for producing standardized safety comparison reports from relevant drug and medical device data.
+
+**Tech:** Python · Flask · Excel · Word Reports
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Quality Control Chart Automation
+
+Tools for generating U-charts and P-charts from complaint and sales datasets, reducing repetitive manual chart preparation.
+
+**Tech:** Python · Tkinter · Excel · PowerPoint
+
+</td>
+<td width="50%" valign="top">
+
+### 🔄 Data Cleaning & ETL Automation
+
+Workflows to compare daily files, identify duplicate records, validate data, and produce standardized outputs.
+
+**Tech:** Alteryx · Data Validation · ETL · Automation
+
+</td>
+</tr>
+</table>
+
+> **Explore my repositories:** Each project should include its problem statement, technology stack, sample input/output, screenshots, and setup instructions. Use public or synthetic data for demonstrations.
+
+---
+
+## 🏆 Achievements & Recognition
+
+🏅 **Stellar Synergy Award — Alcon**
+
+Recognized in two quarters during my first year.
+
+⚡ **Automation & Process Improvement**
+
+Built reporting and data-processing tools designed to reduce manual effort and standardize repetitive workflows.
+
+---
+
+## 📚 Current Learning Journey
+
+* ☁️ Google Cloud Platform
+* 🧠 Data science and machine learning
+* 🤖 AI-assisted analytics and automation
+* 🏗️ Scalable data processing and engineering
+
+---
+
+## 📊 GitHub Dashboard
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=harikameshkiran&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub Stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikameshkiran&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**Interested in healthcare analytics, Python automation, data visualization, and practical data solutions?**
+
+<a href="https://linkedin.com/in/hari-kamesh-kiran-a6790620/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a> <a href="mailto:kamesh.hari@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail" alt="Email"/></a>
+
+### 💙 Data + Domain Knowledge + Automation = Meaningful Impact
+
+</div>
